@@ -8,4 +8,4 @@ Run `git clone https://github.com/maxkmy/Path-Finding-Visualizer.git your-folder
 Make sure to download Pygame.
 
 # Playing the game 
-Run `main(WIN, WIDTH)` in console in order to begin the visualizationn.
+Run `main(WIN, WIDTH)` in console in order to begin the visualization.
